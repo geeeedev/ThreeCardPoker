@@ -3,7 +3,8 @@
 - `M43Poker.py`
 #### Language of my program writted in: 
 - Python3
-
+#### Game Rules follow:
+- [3 Card Poker](https://www.table-games-online.com/3-card-poker/hand_ranking.html)
 ---
 
 #### Steps to Run Program:
